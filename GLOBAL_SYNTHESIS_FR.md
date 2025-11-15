@@ -12,20 +12,24 @@ Ce projet intègre l'analyse des données de capteurs empiriques avec la modéli
 
 #### Cycle Annuel de la Population
 ```
-Trajectoire de la Population (Nombre d'Abeilles)
-  58,000  ┌─────────────┐ Pic (mai-juin)
-          │             │ Essaimage d'été
-  50,000  │             │ (Essaimage)
-          │             │
-  40,000  │  Croissance │
-          │  explosive  │
-  30,000  │             │ Déclin naturel
-          │             │ (Préparation)
-  20,000  │      ┌──────┘ Réduction d'automne
-          │      │
-  10,000  └──────┘ Grappe hivernale
-          │        (Hivernage)
-      Jan Fév Mar Avr Mai Juin Juil Aoû Sep Oct Nov Déc
+Population d'Abeilles par Mois
+
+ 60,000  ╔════════════════════════════════════════╗ MAXIMUM
+         ║█████████ 58,000 bees (mai-juin)       ║
+ 50,000  ║█████████████████████████████████████  ║
+         ║   ÉTÉ: Essaimage & Collecte            ║
+ 40,000  ║█████████████████████████████████████  ║ Pic
+         ║     Croissance explosive (+142%)       ║
+ 30,000  ║█████████████████████████████████████  ║
+         ║  PRINTEMPS/AUTOMNE: Transition        ║
+ 20,000  ║████████ 19-24k bees                   ║
+         ║      Déclin naturel                    ║
+ 10,000  ║██ 9,000 bees (janvier)                ║ MINIMUM
+         ║  HIVER: Grappe compacte                ║
+      0  ╚════════════════════════════════════════╝
+         Jan  Fév  Mar  Avr  Mai  Jun  Jul  Aoû  Sep  Oct  Nov  Déc
+
+Ratio variation: 6,44x (9,000 minimum → 58,000 maximum)
 ```
 
 **Données Clés sur la Population**:
@@ -37,20 +41,26 @@ Trajectoire de la Population (Nombre d'Abeilles)
 
 #### Conséquences de l'Espace Physique
 ```
-Transformation du Volume de la Colonie (Litres)
-  7,25 L  ┌─────────────┐ Volume d'été
-          │             │ ≈ 0,8 cadres
-  6,00 L  │   ÉTÉ       │ 80% de la ruche 45L
-          │             │
-  5,00 L  │             │
-          │             │
-  3,00 L  │ PRINTEMPS/  │ ~33 cadres
-          │   AUTOMNE   │ 33% de la ruche
-  2,00 L  │             │
-          │             │
-  1,13 L  └─────────────┘ Grappe hivernale
-          │               12% de la ruche 45L
-      Jan Fév Mar Avr Mai Juin Juil Aoû Sep Oct Nov Déc
+Utilisation de l'Espace Disponible (Ruche 45L)
+
+  7,25 L  ╔═══════════════════════════════════════╗ MAXIMUM (100%)
+  (80%)   ║████████████████████████████████████  ║ ÉTÉ: Essaimage
+          ║81% de l'espace disponible sur cadres  ║ (58,000 abeilles)
+  6,00 L  ║████████████████████████████████████  ║
+          ║                                       ║
+  5,00 L  ║████████████████████████████████████  ║
+          ║                                       ║
+  3,00 L  ║██████████████████ (50%)              ║ PRINTEMPS/AUTOMNE
+  (33%)   ║33% de l'espace disponible sur cadres ║ (19-24k abeilles)
+  2,00 L  ║██████████████████                    ║ Transition saisonnière
+          ║                                       ║
+  1,13 L  ║████ (12%)                            ║ HIVER: Grappe compacte
+  (12%)   ║12% de l'espace disponible sur cadres ║ (9,000 abeilles)
+      0 L ╚═══════════════════════════════════════╝ MINIMUM
+         Jan  Fév  Mar  Avr  Mai  Jun  Jul  Aoû  Sep  Oct  Nov  Déc
+
+Capacité: Ruche Langstroth 10 cadres = 45 litres
+Variation saisonnière: 6,44x (1,13 L → 7,25 L)
 ```
 
 **Répartition du Volume Saisonnier**:
