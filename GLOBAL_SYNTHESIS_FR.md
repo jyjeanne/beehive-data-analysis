@@ -39,7 +39,7 @@ Trajectoire de la Population (Nombre d'Abeilles)
 ```
 Transformation du Volume de la Colonie (Litres)
   7,25 L  ┌─────────────┐ Volume d'été
-          │             │ = 81 cadres
+          │             │ ≈ 0,8 cadres
   6,00 L  │   ÉTÉ       │ 80% de la ruche 45L
           │             │
   5,00 L  │             │
