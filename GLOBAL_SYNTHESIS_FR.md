@@ -195,7 +195,14 @@ Climat Chaud (15°C à 30°C)
 
 ### 6.1 OPTIMISATIONS SPÉCIFIQUES POUR RUCHE WARRÉ
 
-**Caractéristiques Warré**: Ruche verticale naturelle, volume 40 L, conception modulaire par boîtes empilables
+**Caractéristiques Warré**: Ruche verticale naturelle, composition modulaire de blocs de **19 L chacun**
+- **1 bloc**: 19 L (hiver minimal)
+- **2 blocs**: 38 L (hiver standard)
+- **3 blocs**: 57 L (printemps/automne)
+- **4 blocs**: 76 L (été standard)
+- **5 blocs**: 95 L (été maximal)
+
+**Avantage clé**: Ajout/retrait de blocs selon population réelle sans déranger la colonie
 
 #### Améliorations Thermiques
 
@@ -211,41 +218,50 @@ Climat Chaud (15°C à 30°C)
 - **Pas d'ouverture directe**: Éviter courants d'air qui perturbent la grappe
 - **Gestion saisonnière**: Réduire ventilation en hiver, augmenter en été
 
-#### Gestion des Boîtes par Saison
+#### Gestion des Blocs par Saison
 
-**Hiver (Décembre-Février)**:
-- Nombre de boîtes: 2-3 (grappe + réserves)
-- Volume actif: 13-20 L (30-50% du volume total)
-- Réserves de miel: 18-22 kg minimum au-dessus de la grappe
+**Hiver (Décembre-Février)**: **2 blocs = 38 L**
+- Configuration: Bloc grappe (bas) + Bloc réserves (haut)
+- Population: 9,000-15,000 abeilles
+- Réserves de miel: 18-22 kg minimum (dans bloc supérieur)
+- Observation: Poids bloc = 12-15 kg (grappe) + 10-12 kg (réserves)
 
-**Printemps (Mars-Avril)**:
-- Ajouter 1 boîte fin mars (avant explosion de population)
-- Timing critique: +50% population chaque mois (+109% d'avril à mai)
-- Observer comportement avant ajouter plus
+**Printemps (Mars-Avril)**: **2-3 blocs = 38-57 L**
+- Ajouter 1 bloc fin mars (avant explosion de population +142%)
+- Timing critique: Population +50% par mois (11.5k → 24k → 58k)
+- Décision bloc 3: Quand cadres 70-80% couverts (population ~35,000)
+- Ne pas surcharger: Observation avant chaque ajout
 
-**Été (Mai-Septembre)**:
-- Nombre de boîtes: 4-5 (population max)
-- Volume actif: 32-40 L (80-100% du volume disponible)
-- Surveillance: Ajouter boîte si cadres 90% couverts d'abeilles
+**Été (Mai-Septembre)**: **4-5 blocs = 76-95 L**
+- Configuration idéale: 4 blocs (76 L) pour population 40-50K
+- 5e bloc optionnel si population > 55,000 (rare)
+- Surveillance: Ajouter bloc si cadres 90%+ couverts
+- Gestion essaimage: Population max ~58,000 = 4 blocs suffisent
 
-**Automne (Octobre-Novembre)**:
-- Réduire progressivement: 4 → 3 → 2 boîtes
-- Extraire surplus miel septembre/octobre
-- Laisser réserves au-dessus pour hiver (accessible)
+**Automne (Octobre-Novembre)**: **3 blocs = 57 L → 2 blocs = 38 L**
+- Réduction progressive: 4 blocs → 3 blocs (fin septembre)
+- Extraction surplus: Bloc supérieur de surplus si présent
+- Réduction finale: 3 → 2 blocs (fin octobre/début novembre)
+- Vérification: Bloc inférieur = grappe + réserves (20-25 kg total)
 
 #### Surveillance Sans Dérangement
 
 **Méthode d'Observation**:
 - **Écoute**: Sonnerie bourdonnement = comportement normal
-- **Poids**: Peser chaque boîte (10-12 kg réserves/boîte)
+- **Poids bloc (19 L)**:
+  - Bloc grappe: 12-15 kg (6,000+ abeilles + couvain)
+  - Bloc réserves: 10-12 kg (miel et pollen)
+  - Bloc vide: ~5 kg (poids du bloc seul)
 - **Entrée**: Activité d'entrée et qualité du pollen
 - **Exhalaison**: Faible odeur moisissure = bon équilibre humidité
 
-**Signes d'Alerte**:
+**Signes d'Alerte** (Poids bloc):
+- Bloc grappe < 10 kg = population décline/collapse
+- Bloc réserves < 8 kg = risque famine imminente
 - Bourdonnement anormal (aigu = essaimage possible)
 - Absence d'activité = population basse/collapse
 - Odeur fermentation/moisi = ventilation insuffisante
-- Poids trop léger = risque famine
+- Poids total < 20 kg en hiver = réserves insuffisantes
 
 #### Gestion de l'Humidité
 
@@ -284,49 +300,78 @@ Climat Chaud (15°C à 30°C)
 
 ```
 JANVIER (Hiver)
-├─ Actions: Surveillance poids, aération
-├─ Boîtes: 2-3 | Réserves: 18-22 kg
+├─ Blocs: 2 (38 L)
+├─ Population: 9,000 abeilles
+├─ Actions: Surveillance poids, aération minimale
+├─ Poids total: 22-27 kg (grappe 12-15 kg + réserves 10-12 kg)
 └─ Dérangement: Minimal (pèsement externe seul)
 
-AVRIL (Croissance)
-├─ Actions: Ajouter 1-2 boîtes
-├─ Boîtes: 3-4 | Surveillance: Essaimage
-└─ Observation: Activité intense attendue
+MARS (Croissance printanière)
+├─ Blocs: 2 → 3 (38 L → 57 L) - AjoUTER fin mars
+├─ Population: 11.5k → 24k abeilles
+├─ Actions: Préparer bloc supplémentaire
+├─ Surveillance: Cadres 70-80% couverts
+└─ Timing: CRITIQUE - Avant explosion +142% d'avril à mai
 
-MAI-JUIN (Pic)
-├─ Actions: Gérer expansion, observer essaimage
-├─ Boîtes: 4-5 | Croissance: +142% depuis avril
-└─ Ventilation: Augmenter si T° > 35°C
+AVRIL (Explosion)
+├─ Blocs: 3 (57 L)
+├─ Population: 24,000 abeilles (+109% depuis avril)
+├─ Actions: Vérifier cadres 90% couverts
+├─ Surveillance: Essaimage imminent
+└─ Préparation: Bloc 4 en attente
+
+MAI-JUIN (Pic d'été)
+├─ Blocs: 3 → 4 (57 L → 76 L) - AJOUTER bloc 4
+├─ Population: 58,000 abeilles (pic +142% depuis avril)
+├─ Actions: Gérer essaimage naturel
+├─ Volume: 76 L = optimal pour population max
+└─ Ventilation: Augmenter si T° > 35°C, aération naturelle
 
 JUILLET-AOÛT (Production)
+├─ Blocs: 4 (76 L) - MAINTENIR stable
+├─ Population: 40-50k abeilles (début déclin -42%)
 ├─ Actions: Préparer récolte
-├─ Boîtes: 4-5 | Volume: 80-100% utilisé
-└─ Miel: Cadres operculés = prêts à récolter
+├─ Miel: Cadres operculés (bloc supérieur) = prêts
+└─ Observation: Activité normale attendue
 
 SEPTEMBRE (Récolte)
-├─ Actions: Extraire surplus, vérifier réserves
-├─ Boîtes: Réduire 5 → 3
-├─ Réserves: Vérifier minimum 18-22 kg
+├─ Blocs: 4 → 3 (retirer bloc de surplus - fin septembre)
+├─ Population: 28,000 abeilles (-35% du pic)
+├─ Actions: Extraire surplus, vérifier réserves finales
+├─ Réserves: Minimum 18-22 kg (dans bloc supérieur)
 └─ Nettoyage: Retirer cire morte/débris
 
-OCTOBRE-NOVEMBRE (Préparation)
-├─ Actions: Isoler, traiter varroa
-├─ Boîtes: 2-3 stables
-├─ Isolation: Ajouter enveloppe externe
-└─ Accès: Bloquer entrée à taille minimale
+OCTOBRE-NOVEMBRE (Préparation hivernale)
+├─ Blocs: 3 → 2 (57 L → 38 L) - Réduction fin octobre
+├─ Population: 19,000 abeilles
+├─ Actions: Isoler, traiter varroa, bloquer entrée
+├─ Configuration finale: Bloc grappe + Bloc réserves
+├─ Isolation: Ajouter enveloppe externe 50-60 mm
+└─ Réserves: 20-25 kg total (grappe 12-15 + surplus 10-12)
 ```
 
-#### Indicateurs de Performance Warré
+#### Indicateurs de Performance Warré (Blocs de 19 L)
 
-| Métrique | Objectif Warré | Bon Intervalle | Alerte |
-|----------|---|---|---|
-| Population (adultes) | 30-40K | 25-45K | <15K ou >50K |
-| Boîtes occupées hiver | 2-3 | 2-3.5 | <2 ou >4 |
-| Boîtes occupées été | 4-5 | 3.5-5 | <3 ou >5.5 |
+| Métrique | Objectif | Bon Intervalle | Alerte |
+|----------|----------|---|---|
+| **Hiver** | | | |
+| Population (adultes) | 9-15K | 8-16K | <7K ou >18K |
+| Blocs occupés | 2 | 2 | <1.5 ou >2.5 |
+| Volume total | 38 L | 38 L | <30 L ou >50 L |
+| Poids total | 22-27 kg | 20-28 kg | <18 kg ou >30 kg |
+| Poids bloc grappe | 12-15 kg | 11-16 kg | <10 kg ou >17 kg |
+| Poids bloc réserves | 10-12 kg | 9-13 kg | <8 kg ou >15 kg |
+| **Été** | | | |
+| Population (adultes) | 40-50K | 35-58K | <30K ou >65K |
+| Blocs occupés | 4 | 3.5-4.5 | <3 ou >5 |
+| Volume total | 76 L | 66-95 L | <60 L ou >100 L |
+| Cadres couverts (%) | 85-90% | 80-95% | <70% ou >100% |
+| **Général** | | | |
 | Réserves miel (kg) | 20 | 18-22 | <15 ou >30 |
 | Ventilation hiver (ACH) | 0.2-0.3 | 0.15-0.35 | <0.1 ou >0.5 |
 | Taux survie hiver (%) | >85 | >80 | <70 |
 | Récolte annuelle (kg) | 10 | 8-15 | <5 |
+| Reproduction (essaimage) | 1x naturel | 0-1x | >1x (non géré) |
 
 **Avantages Optimisés**:
 - ✅ Modularité excellente (ajouter/retirer boîtes au besoin)
