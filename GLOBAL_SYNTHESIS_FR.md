@@ -179,7 +179,7 @@ Climat Chaud (15°C à 30°C)
 |---------------|--------|-------|-----|-----------|------|
 | 8 cadres Langstroth | 36 L | Serré | Encombré | Moyen | Bas |
 | **10 cadres Langstroth** | **45 L** | **Bon** | **Optimal** | **Excellent** | **Moyen** |
-| Dadant (Horizontale) | 50 L | Excellent | Bon | Excellent | Moyen-Haut |
+| Dadant (Horizontale) | 66.7 L | Excellent | Excellent | Excellent | Moyen-Haut |
 | Warré (Verticale) | 40 L | Bon | Bon | Excellent | Moyen |
 | Top-bar | 50 L | Spacieux | Bon | Moyen | Haut |
 | **Conception Optimisée** | **40-45 L** | **Bon** | **Optimal** | **Excellent+** | **Moyen-Haut** |
