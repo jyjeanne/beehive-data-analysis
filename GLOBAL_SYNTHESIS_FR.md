@@ -85,6 +85,8 @@ Variation saisonnière: 6,44x (1,13 L → 7,25 L)
 
 #### Mécanismes de Perte de Chaleur de la Ruche
 
+Il existe plusieurs mécanismes de perte de chaleur: la Conduction, la Convection, le Rayonnement, la Ventilation et l'Évaporation.
+
 ```
 Répartition Totale de la Perte de Chaleur (Moyenne: 11,9 W)
 
@@ -96,12 +98,17 @@ Répartition Totale de la Perte de Chaleur (Moyenne: 11,9 W)
 
   Évaporation: 0,64 W (5%)
   ███ 5%
+
+  Convection: Négligeable (<0.1%)
+  Rayonnement: Négligeable (<0.1%)
 ```
 
 **Composantes de la Perte de Chaleur**:
 - **Perte par Conduction**: Q = U × A × ΔT (domine - l'isolation est critique)
 - **Perte par Ventilation**: Q = ρ × cp × V̇ × ΔT (secondaire)
 - **Perte par Évaporation**: Q = m × Lv (lors du traitement du nectar)
+- **Perte par Convection**: Négligeable (l'air intérieur est relativement stagnant)
+- **Perte par Rayonnement**: Négligeable (température de la ruche proche de l'ambiance)
 
 ---
 
