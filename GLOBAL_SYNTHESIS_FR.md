@@ -17,9 +17,9 @@ Trajectoire de la Population (Nombre d'Abeilles)
           │             │ Essaimage d'été
   50,000  │             │ (Essaimage)
           │             │
-  40,000  │   Croissan- │
-          │   ce explo-  │
-  30,000  │   sive      │ Déclin naturel
+  40,000  │  Croissance │
+          │  explosive  │
+  30,000  │             │ Déclin naturel
           │             │ (Préparation)
   20,000  │      ┌──────┘ Réduction d'automne
           │      │
@@ -69,7 +69,7 @@ Transformation du Volume de la Colonie (Litres)
 
 **Taux Métabolique par Saison** (W par abeille):
 - **Hiver**: 0,0015 W/abeille (mode survie, chauffage de la grappe)
-- **Printemps**: 0,0010 W/abeille (reproduction du couvain commence)
+- **Printemps**: 0,0010 W/abeille (élevage du couvain commence)
 - **Été**: 0,0006 W/abeille (population distribuée, meilleur refroidissement)
 - **Automne**: 0,0012 W/abeille (transformation intense du miel)
 
@@ -137,7 +137,7 @@ Climat Chaud (15°C à 30°C)
 - Fournir un supplément de pollen si le temps est mauvais
 - Surveiller quotidiennement les signes d'essaimage
 - Planifier la stratégie de gestion de la reine
-- Assurer une capacité de ponte adequate
+- Assurer une capacité de ponte adéquate
 
 #### Août-Octobre: Déclin Automnal Graduel (-35%)
 **ACTIONS APICOLES REQUISES**:
@@ -322,7 +322,7 @@ Cette analyse intégrée démontre que la gestion réussie d'une ruche nécessit
 2. **Dynamique Thermique** (mécanismes de production et de perte de chaleur)
 3. **Contraintes Physiques** (volume et capacité de stockage)
 
-Une ruche de 45 litres avec une isolation de 50-60 mm (U = 0,6-0,8) et une ventilation appropriée (0,3-0,4 ACH) fournit une accommodation optimale pour une colonie typique sur tous les saisons, en équilibrant:
+Une ruche de 45 litres avec une isolation de 50-60 mm (U = 0,6-0,8) et une ventilation appropriée (0,3-0,4 ACH) fournit une accommodation optimale pour une colonie typique sur toutes les saisons, en équilibrant:
 - **Hiver**: Grappe compacte, isolation efficace
 - **Été**: Capacité maximale, refroidissement adéquat
 - **Transition**: Espace flexible pour une variation de population de 6,44x
