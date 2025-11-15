@@ -1,0 +1,13 @@
+Month,Adult_Bees,Worker_Brood,Drones
+January,17000,0,0
+February,15000,0,0
+March,13000,0,0
+April,11000,0,0
+May,10000,4500,0
+June,23000,15000,0
+July,30000,24000,500
+August,34000,28000,1500
+September,26000,19000,500
+October,21000,3000,0
+November,20000,0,0
+December,18000,0,0

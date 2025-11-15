@@ -1,0 +1,13 @@
+Month,Bee_Population,Colony_Phase,Volume_L,Mass_kg,Frames_needed
+January,9000,Hivernage,1.125,0.9,0.125
+February,9500,Hivernage,1.1875,0.95,0.13194444444444445
+March,11500,Développement,1.4375,1.15,0.1597222222222222
+April,24000,Développement,3.0,2.4,0.3333333333333333
+May,58000,Développement/Essaimage,7.25,5.8,0.8055555555555556
+June,58000,Essaimage,7.25,5.8,0.8055555555555556
+July,48000,Essaimage,6.0,4.8,0.6666666666666666
+August,28000,Préparation à l'hivernage,3.5,2.8,0.3888888888888889
+September,23000,Préparation à l'hivernage,2.875,2.3,0.3194444444444444
+October,19000,Préparation à l'hivernage,2.375,1.9,0.2638888888888889
+November,17000,Hivernage,2.125,1.7,0.2361111111111111
+December,13500,Hivernage,1.6875,1.35,0.1875

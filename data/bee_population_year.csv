@@ -1,0 +1,13 @@
+Month,Bee_Population,Colony_Phase
+January,9000,Hivernage
+February,9500,Hivernage
+March,11500,Développement
+April,24000,Développement
+May,58000,Développement/Essaimage
+June,58000,Essaimage
+July,48000,Essaimage
+August,28000,Préparation à l'hivernage
+September,23000,Préparation à l'hivernage
+October,19000,Préparation à l'hivernage
+November,17000,Hivernage
+December,13500,Hivernage
