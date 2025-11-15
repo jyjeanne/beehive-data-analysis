@@ -920,6 +920,12 @@ The optimization model parameters can be adjusted for your specific conditions:
 - **BEE_VOLUME_ANALYSIS_GUIDE.md**: User-friendly guide with practical applications
 - **BEE_POPULATION_DATA_INTEGRATION.md**: Integration guide for seasonal population data
 
+### Synthesis & Analysis
+- **GLOBAL_SYNTHESIS_FR.md**: Complete French translation of Part 7 (Global Synthesis)
+  - Comprehensive analysis of bee hive dynamics
+  - Design recommendations and performance metrics
+  - Practical decision-making tools and monitoring checklists
+
 ### Project Guidelines
 - **CONTRIBUTING.md**: Guidelines for contributions
 - **CONTRIBUTORS.md**: Acknowledgments and credits
