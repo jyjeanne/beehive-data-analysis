@@ -193,6 +193,156 @@ Climat Chaud (15°C à 30°C)
 
 ---
 
+### 6.1 OPTIMISATIONS SPÉCIFIQUES POUR RUCHE WARRÉ
+
+**Caractéristiques Warré**: Ruche verticale naturelle, volume 40 L, conception modulaire par boîtes empilables
+
+#### Améliorations Thermiques
+
+**Isolation Hivernale**:
+- **Enveloppe externe**: Polystyrène 50-60 mm ou construction en bois épais (5 cm)
+- **Paille/sciure entre boîtes**: Améliore isolation inter-boîtes (isolation naturelle)
+- **Couvercle renforcé**: Toit double avec lame d'air (50 mm) pour minimiser perte par le haut
+- **Chaperonne ventilée**: Permet circulation air sans déperdition thermique directe
+
+**Ventilation Optimale**:
+- **Orifices de ventilation bas**: Petits trous (5-8 mm) grillés pour aération hivernale
+- **Ventilation haute**: Maille/toile au-dessus des cadres pour éviter condensation
+- **Pas d'ouverture directe**: Éviter courants d'air qui perturbent la grappe
+- **Gestion saisonnière**: Réduire ventilation en hiver, augmenter en été
+
+#### Gestion des Boîtes par Saison
+
+**Hiver (Décembre-Février)**:
+- Nombre de boîtes: 2-3 (grappe + réserves)
+- Volume actif: 13-20 L (30-50% du volume total)
+- Réserves de miel: 18-22 kg minimum au-dessus de la grappe
+
+**Printemps (Mars-Avril)**:
+- Ajouter 1 boîte fin mars (avant explosion de population)
+- Timing critique: +50% population chaque mois (+109% d'avril à mai)
+- Observer comportement avant ajouter plus
+
+**Été (Mai-Septembre)**:
+- Nombre de boîtes: 4-5 (population max)
+- Volume actif: 32-40 L (80-100% du volume disponible)
+- Surveillance: Ajouter boîte si cadres 90% couverts d'abeilles
+
+**Automne (Octobre-Novembre)**:
+- Réduire progressivement: 4 → 3 → 2 boîtes
+- Extraire surplus miel septembre/octobre
+- Laisser réserves au-dessus pour hiver (accessible)
+
+#### Surveillance Sans Dérangement
+
+**Méthode d'Observation**:
+- **Écoute**: Sonnerie bourdonnement = comportement normal
+- **Poids**: Peser chaque boîte (10-12 kg réserves/boîte)
+- **Entrée**: Activité d'entrée et qualité du pollen
+- **Exhalaison**: Faible odeur moisissure = bon équilibre humidité
+
+**Signes d'Alerte**:
+- Bourdonnement anormal (aigu = essaimage possible)
+- Absence d'activité = population basse/collapse
+- Odeur fermentation/moisi = ventilation insuffisante
+- Poids trop léger = risque famine
+
+#### Gestion de l'Humidité
+
+**Problème Warré**: Condensation dans boîtes empilées (design vertical)
+
+**Solutions**:
+- **Absorption**: Chiffon de coton/laine absorbante dans chaperonne
+- **Ventilation**: Grille sous-chaperonne + petits trous latéraux
+- **Fond surélevé**: Planche 2-3 cm ↑ pour circulation air sous ruche
+- **Drainage**: Petits trous bas grillés pour évacuation humidité (sans appel d'air)
+
+#### Protection et Prédateurs
+
+**Sécurisation de Base**:
+- **Rongeurs**: Grille métallique (6 mm) à l'entrée
+- **Varroa**: Plateau de fond gratté hebdomadaire (compter chute naturelle)
+- **Guêpes**: Réducteur entrée ajusté selon saison (5-10 mm été, 3-5 mm automne)
+
+**Traitement Naturel Warré**:
+- **Varroase**: Sucre glace (200-300 g/mois hiver) ou acide formique
+- **Nosémose**: Aération, pas de moisissure
+- **Fausse-teigne**: Population forte + nettoyage régulier
+
+#### Récolte et Gestion du Miel
+
+**Surplus Récolte Warré** (Configuration optimale):
+- Production estimée: 8-15 kg miel/an (selon climat)
+- Léger surplus après réserves hivernales (18-22 kg)
+
+**Calendrier Récolte**:
+- **Début septembre**: Retirer 1 boîte de surplus (si 5 boîtes présentes)
+- **Fin septembre**: Évaluer réserves finales
+- **Octobre**: Refermer à 3 boîtes pour hiver
+
+#### Plan d'Optimisation Annuel
+
+```
+JANVIER (Hiver)
+├─ Actions: Surveillance poids, aération
+├─ Boîtes: 2-3 | Réserves: 18-22 kg
+└─ Dérangement: Minimal (pèsement externe seul)
+
+AVRIL (Croissance)
+├─ Actions: Ajouter 1-2 boîtes
+├─ Boîtes: 3-4 | Surveillance: Essaimage
+└─ Observation: Activité intense attendue
+
+MAI-JUIN (Pic)
+├─ Actions: Gérer expansion, observer essaimage
+├─ Boîtes: 4-5 | Croissance: +142% depuis avril
+└─ Ventilation: Augmenter si T° > 35°C
+
+JUILLET-AOÛT (Production)
+├─ Actions: Préparer récolte
+├─ Boîtes: 4-5 | Volume: 80-100% utilisé
+└─ Miel: Cadres operculés = prêts à récolter
+
+SEPTEMBRE (Récolte)
+├─ Actions: Extraire surplus, vérifier réserves
+├─ Boîtes: Réduire 5 → 3
+├─ Réserves: Vérifier minimum 18-22 kg
+└─ Nettoyage: Retirer cire morte/débris
+
+OCTOBRE-NOVEMBRE (Préparation)
+├─ Actions: Isoler, traiter varroa
+├─ Boîtes: 2-3 stables
+├─ Isolation: Ajouter enveloppe externe
+└─ Accès: Bloquer entrée à taille minimale
+```
+
+#### Indicateurs de Performance Warré
+
+| Métrique | Objectif Warré | Bon Intervalle | Alerte |
+|----------|---|---|---|
+| Population (adultes) | 30-40K | 25-45K | <15K ou >50K |
+| Boîtes occupées hiver | 2-3 | 2-3.5 | <2 ou >4 |
+| Boîtes occupées été | 4-5 | 3.5-5 | <3 ou >5.5 |
+| Réserves miel (kg) | 20 | 18-22 | <15 ou >30 |
+| Ventilation hiver (ACH) | 0.2-0.3 | 0.15-0.35 | <0.1 ou >0.5 |
+| Taux survie hiver (%) | >85 | >80 | <70 |
+| Récolte annuelle (kg) | 10 | 8-15 | <5 |
+
+**Avantages Optimisés**:
+- ✅ Modularité excellente (ajouter/retirer boîtes au besoin)
+- ✅ Observation sans déranger cadres (pèsement externe)
+- ✅ Isolation naturelle améliorable (paille/sciure)
+- ✅ Reproduction naturelle (essaimage géré)
+- ✅ Économique (construction diy possible)
+
+**Défis à Gérer**:
+- ⚠️ Essaimage fréquent (nécessite gestion active)
+- ⚠️ Humidité (design vertical demande ventilation soignée)
+- ⚠️ Récolte laborieuse (cadres non mobiles vs Langstroth)
+- ⚠️ Évaluation population complexe (sans ouverture)
+
+---
+
 ### 7. RÉSUMÉ DU CYCLE ANNUEL COMPLET
 
 ```
