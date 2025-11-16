@@ -1,0 +1,13 @@
+Month,Bee_Population,Colony_Phase,Season,Volume_cm3,Volume_L,Volume_mm3,Mass_g,Mass_kg,Frames_Needed,Frames_Per_10,Heat_Production_W,Volume_Change,Volume_Pct_Change
+January,9000,Hivernage,Winter,1125.0,1.125,1125000.0,900.0,0.9,0.125,1.25,13.5,,
+February,9500,Hivernage,Winter,1187.5,1.188,1187500.0,950.0,0.95,0.132,1.319,14.25,0.062,5.556
+March,11500,Développement,Spring,1437.5,1.438,1437500.0,1150.0,1.15,0.16,1.597,11.5,0.25,21.053
+April,24000,Développement,Spring,3000.0,3.0,3000000.0,2400.0,2.4,0.333,3.333,24.0,1.562,108.696
+May,58000,Développement/Essaimage,Summer,7250.0,7.25,7250000.0,5800.0,5.8,0.806,8.056,34.8,4.25,141.667
+June,58000,Essaimage,Summer,7250.0,7.25,7250000.0,5800.0,5.8,0.806,8.056,34.8,0.0,0.0
+July,48000,Essaimage,Summer,6000.0,6.0,6000000.0,4800.0,4.8,0.667,6.667,28.8,-1.25,-17.241
+August,28000,Préparation à l'hivernage,Fall,3500.0,3.5,3500000.0,2800.0,2.8,0.389,3.889,33.6,-2.5,-41.667
+September,23000,Préparation à l'hivernage,Fall,2875.0,2.875,2875000.0,2300.0,2.3,0.319,3.194,27.6,-0.625,-17.857
+October,19000,Préparation à l'hivernage,Fall,2375.0,2.375,2375000.0,1900.0,1.9,0.264,2.639,22.8,-0.5,-17.391
+November,17000,Hivernage,Winter,2125.0,2.125,2125000.0,1700.0,1.7,0.236,2.361,25.5,-0.25,-10.526
+December,13500,Hivernage,Winter,1687.5,1.688,1687500.0,1350.0,1.35,0.188,1.875,20.25,-0.438,-20.588
